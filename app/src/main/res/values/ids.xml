@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_name" type="id" />
+    <item name="spinner" type="id" />
+    <item name="listEvent" type="id" />
+    <item name="date_match" type="id" />
+    <item name="name_away" type="id" />
+    <item name="name_home" type="id" />
+    <item name="score" type="id" />
+    <item name="score_match" type="id" />
+    <item name="score_away_match" type="id" />
+    <item name="score_home_match" type="id" />
+    <item name="vs" type="id" />
+    <item name="home_formation" type="id" />
+    <item name="away_formation" type="id" />
+    <item name="home_goals" type="id" />
+    <item name="away_goals" type="id" />
+    <item name="home_shots" type="id" />
+    <item name="away_shots" type="id" />
+    <item name="home_goalkeeper" type="id" />
+    <item name="away_goalkeeper" type="id" />
+    <item name="away_defense" type="id" />
+    <item name="home_defense" type="id" />
+    <item name="home_midfield" type="id" />
+    <item name="away_midfield" type="id" />
+    <item name="home_forward" type="id" />
+    <item name="away_forward" type="id" />
+    <item name="home_substitutes" type="id" />
+    <item name="away_substitutes" type="id" />
+    <item name="cv_item" type="id" />
+    <item name="img_home" type="id" />
+    <item name="img_away" type="id" />
+    <item name="list_match" type="id" />
+    <item name="past" type="id" />
+    <item name="next" type="id" />
+    <item name="list_team" type="id" />
+    <item name="team_badge" type="id"/>
+    <item name="team_badge_player" type="id" />
+    <item name="team_name_player" type="id" />
+    <item name="team_position_player" type="id" />
+    <item name="list_team_favorite" type="id" />
+    <item name="favorites_team" type="id" />
+    <item name="favorites_match" type="id" />
+    <item name="edt_search" type="id" />
+</resources>
